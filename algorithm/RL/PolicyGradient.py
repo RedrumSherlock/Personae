@@ -132,8 +132,8 @@ class Algorithm(BaseRLTFModel):
 def main(args):
     mode = args.mode
     # mode = 'test'
-    # codes = args.codes
-    codes = ["600036"]
+    codes = args.codes
+    # codes = ["600036"]
     # codes = ["600036", "601998"]
     # codes = ["AU88", "RB88", "CU88", "AL88"]
     # codes = ["T9999"]

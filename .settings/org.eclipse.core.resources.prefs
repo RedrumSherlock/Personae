@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//algorithm/RL/DDPG.py=utf-8
+encoding//algorithm/RL/DoubleDQN.py=utf-8
+encoding//algorithm/RL/PolicyGradient.py=utf-8
+encoding//base/env/market.py=utf-8
+encoding//base/env/trader.py=utf-8
+encoding//base/model/document.py=utf-8
+encoding//helper/args_parser.py=utf-8
+encoding//helper/data_logger.py=utf-8
+encoding//spider/stock_spider.py=utf-8
